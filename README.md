@@ -57,6 +57,7 @@ Explique como o grupo lidou com as limitações e quais soluções criativas for
 
 ## 👥 Colaboração
 
+Daniel Kaiã Ferreira Mascarenhas
 Descreva como o grupo organizou as tarefas e responsabilidades entre os integrantes.
 
 ---
